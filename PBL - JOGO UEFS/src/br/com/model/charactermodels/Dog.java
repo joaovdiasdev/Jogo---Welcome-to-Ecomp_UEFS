@@ -3,8 +3,11 @@ package br.com.model.charactermodels;
 import br.com.model.operational.Pair;
 import br.com.model.playermodels.Player;
 
+//Classe Dog, que herda de animal e aplica polimorfismo dos métodos de NPC
 public class Dog extends Animal{
 	
+	private static final long serialVersionUID = 1L;
+
 	public Dog(String nome, int idade, Pair posicao) {
 		super(nome, idade, posicao);
 	}

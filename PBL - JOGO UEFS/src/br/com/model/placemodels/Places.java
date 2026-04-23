@@ -1,11 +1,13 @@
 package br.com.model.placemodels;
 
+import java.io.Serializable;
 import java.util.List;
 
 import br.com.model.eventmodels.Events;
 import br.com.model.operational.Pair;
 
-public class Places {
+public class Places implements Serializable{
+	private static final long serialVersionUID = 1L;
 	private String nomeLocalString;
 	private Pair posicaoLocal;
 	private List<Events> listaEventosEvents;

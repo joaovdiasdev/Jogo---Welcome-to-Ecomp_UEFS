@@ -6,7 +6,9 @@ import java.util.List;
 import br.com.model.eventmodels.Events;
 import br.com.model.operational.Pair;
 
+//Representa a macrovisão da faculdade. Possui um construtor e três getters
 public class Campus extends Places{
+	private static final long serialVersionUID = 1L;
 	private static List<Modulo> listaModulos;
 	private static List<Restaurante> cantinas;
 	

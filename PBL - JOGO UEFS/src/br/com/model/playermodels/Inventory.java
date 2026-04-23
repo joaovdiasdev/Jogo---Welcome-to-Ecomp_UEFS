@@ -1,14 +1,20 @@
 package br.com.model.playermodels;
 
+import java.io.Serializable;
+
 import br.com.model.gamesupermodels.*;
 
-public class Inventory {
+//Classe para guardar itens adquridos pelo usuário
+public class Inventory implements Serializable{
+	private static final long serialVersionUID = 1L;
 	private Item[][] matriz;
 	
+	//Construtor
 	public Inventory() {
 		matriz = new Item[3][8];
 	}
 	
+	//Métodos de CRUD no inventário
 	public void adicionar(Item item) {
 		if(matriz[2][7] != null) {
 			for(int x = 0; x < 3; x++) {

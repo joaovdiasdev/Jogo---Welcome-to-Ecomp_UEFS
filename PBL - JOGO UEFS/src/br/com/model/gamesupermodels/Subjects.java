@@ -1,5 +1,6 @@
 package br.com.model.gamesupermodels;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
 import java.util.List;
@@ -7,7 +8,12 @@ import java.util.List;
 import br.com.model.charactermodels.Teacher;
 import br.com.model.placemodels.Sala;
 
-public class Subjects {
+//Classe que cria as matérias a serem cursadas. É utilizada para cálculo de média (para aprovação e reprovação), cálculo de
+//desempenho acadêmico e distribuição das tasks do jogador. Está associada a um professor e a uma sala de aula, tendo os
+//atributos de nome, numero de provas, notas de provas e carga horária;
+public class Subjects implements Serializable{
+	private static final long serialVersionUID = 1L;
+	
 	private String nomeMateriaString;
 	private Sala salaAula;
 	private Teacher professor;
@@ -15,6 +21,7 @@ public class Subjects {
 	private int cargaHorariaInt;
 	private List<Double> notasProvasList;
 	
+	//Construtor
 	public Subjects(String nomeMateria, Sala classroom, Teacher teacher, int numeroProvas, int cargaHoraria) {
 		nomeMateriaString = nomeMateria;
 		salaAula = classroom;
@@ -23,7 +30,8 @@ public class Subjects {
 		cargaHorariaInt = cargaHoraria;
 		notasProvasList = new ArrayList<Double>(numeroProvas);
 	}
-
+	
+	//Getters
 	public String getNomeMateriaString() {
 		return nomeMateriaString;
 	}
@@ -57,7 +65,4 @@ public class Subjects {
 		double media = soma/materia.getNumeroProvasInt();
 		return media;
 	}
-	
-	
-	
 }

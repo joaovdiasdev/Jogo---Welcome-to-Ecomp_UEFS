@@ -7,7 +7,9 @@ import br.com.model.eventmodels.Events;
 import br.com.model.operational.Pair;
 import br.com.model.playermodels.Player;
 
+//Ponto de apoio do jogador, caso tenha acontecido algum evento relacionado a suas matérias
 public class Colegiado extends Places{
+	private static final long serialVersionUID = 1L;
 	private static NPC maeli;
 	
 	public Colegiado(String nome, Pair posicao, List<Events> eventos) {

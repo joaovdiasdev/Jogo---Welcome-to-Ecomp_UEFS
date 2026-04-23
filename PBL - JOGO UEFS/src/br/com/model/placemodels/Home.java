@@ -6,7 +6,10 @@ import br.com.model.eventmodels.Events;
 import br.com.model.operational.Pair;
 import br.com.model.playermodels.Player;
 
+//Representa a casa do jogador, onde ela dorme e estuda fora da faculdade
 public class Home extends Places{
+	private static final long serialVersionUID = 1L;
+
 	public Home(String nome, Pair posicao, List<Events> eventos) {
 		super(nome, posicao, eventos);
 	}

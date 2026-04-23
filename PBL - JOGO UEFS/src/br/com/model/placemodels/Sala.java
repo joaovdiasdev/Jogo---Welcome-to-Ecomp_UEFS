@@ -10,11 +10,14 @@ import br.com.model.gamesupermodels.Subjects;
 import br.com.model.interfaces.ClassroomActions;
 import br.com.model.operational.Pair;
 
+//Classe que representa uma unidade institucional (uma sala de aula) e implementa uma interface de ações de sala de aula
 public class Sala extends Places implements ClassroomActions{
+	private static final long serialVersionUID = 1L;
 	private Teacher professor;
 	private Subjects materiaSubjects;
 	private List<Classmates> alunos;
 	
+	//Construtor
 	public Sala(String nome, Pair pos, List<Events> eventos, Teacher professor, List<Classmates> alunos, Subjects materia){
 		super(nome, pos, eventos);
 		this.professor = professor;
@@ -22,6 +25,7 @@ public class Sala extends Places implements ClassroomActions{
 		this.materiaSubjects = materia;
 	}
 	
+	//Getters, Setters e métodos da interface
 	public List<Classmates> getAlunos(){
 		return alunos;
 	}

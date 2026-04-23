@@ -4,8 +4,9 @@ import java.util.List;
 import br.com.model.eventmodels.Events;
 import br.com.model.operational.Pair;
 
-
+//Uma classe para agrupar um conjunto de salas de aula, um lugar do tipo restaurante e o colegiado;
 public class Modulo extends Places{
+	private static final long serialVersionUID = 1L;
 	private List<Sala> salas;
 	private List<Laboratorio> laboratorios;
 	private Restaurante cantinaPlaces;
@@ -41,10 +42,4 @@ public class Modulo extends Places{
 	public Colegiado getColegiado() {
 		return colegiado;
 	}
-	
-	
-	
-	
-	
-	
 }

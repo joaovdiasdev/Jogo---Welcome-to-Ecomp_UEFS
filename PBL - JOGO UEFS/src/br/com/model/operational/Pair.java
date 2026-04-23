@@ -1,6 +1,10 @@
 package br.com.model.operational;
 
-public class Pair {
+import java.io.Serializable;
+
+//Classe auxiliar de Grid, ela compoe os pares ordenados do tabueleiro. Possui um construtor e dois getters
+public class Pair implements Serializable{
+	private static final long serialVersionUID = 1L;
 	private double x;
 	private double y;
 

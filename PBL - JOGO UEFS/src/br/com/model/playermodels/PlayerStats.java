@@ -1,11 +1,14 @@
 package br.com.model.playermodels;
 
+import java.io.Serializable;
 import java.util.List;
 import java.util.Random;
 import br.com.model.gamesupermodels.Subjects;
 
-public class PlayerStats {
-	private Random random;
+//Classe específica de atributos do usuário solicitados no problema, com o intuito de modularizar e limpar o códiog
+public class PlayerStats implements Serializable{
+	private static final long serialVersionUID = 1L;
+	private Random random = new Random();
 	private int xpInt;
 	private int levelInt;
 	private int motivacaoInt;
@@ -15,6 +18,7 @@ public class PlayerStats {
 	private double scoreDouble;
 	private int lucky;
 	
+	//Construtor
 	public PlayerStats() {
 		xpInt = 0;
 		levelInt = 1;
@@ -25,6 +29,7 @@ public class PlayerStats {
 		scoreDouble = 0.0;
 	}
 	
+	//Métodos de manipulação dos valores dos atributos (utilizado para tudo no jogo)
 	public void somaXp(int valor) {
 		xpInt = xpInt + valor;
 	}

@@ -1,9 +1,15 @@
 package br.com.model.operational;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Grid {
+//Entrando nas classes operacionais, temos o tabueleiro, que possui uma origem (a casa do jogador) e um array qye guarda outras localizações
+
+//Possui um construtor, um getter e uma função de adicionar posicao no array
+public class Grid implements Serializable{
+	private static final long serialVersionUID = 1L;
+	
 	private Pair origem;
 	private List<Pair> posicoesGrid;
 	

@@ -5,6 +5,7 @@ import br.com.model.charactermodels.Teacher;
 import br.com.model.placemodels.Places;
 import br.com.model.placemodels.Sala;
 
+//Unica interface do jogo, associada a uma sala de aula, para representar o que pode ser feito dentro dela
 public interface ClassroomActions {
 	
 	void entrarSala(Characters personagem, Sala sala);

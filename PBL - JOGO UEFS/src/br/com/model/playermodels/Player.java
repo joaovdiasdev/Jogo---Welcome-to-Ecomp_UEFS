@@ -1,5 +1,6 @@
 package br.com.model.playermodels;
 
+import java.io.Serializable;
 import java.util.ArrayList;		
 import java.util.List;
 
@@ -11,14 +12,16 @@ import br.com.model.gamesupermodels.Subjects;
 import br.com.model.operational.Pair;
 import br.com.model.placemodels.Home;
 
-public class Player extends Characters{
+//Classe do jogador e seus atributos
+public class Player extends Characters implements Serializable{
+	private static final long serialVersionUID = 1L;
 	private PlayerStats statusJogador;
 	private Inventory mochila;
 	private List<Subjects> disciplinas;
 	private Calendar calendario;
 	private Home casaHome;
 	
-	
+	//Construtor
 	public Player(String nome, int idade) {
 		super(nome, idade, new Pair(0, 0));
 		statusJogador = new PlayerStats();
@@ -28,6 +31,7 @@ public class Player extends Characters{
 		casaHome = new Home("Casa", new Pair(0, 0), null);
 	}
 	
+	//Métodos inspirados na realidade (comer, dormir, estudar, etc) e os getters
 	public void comer(Food comida) {
 		if(comida.getTagString() == "Saudável") {
 			statusJogador.somaSaude(3);

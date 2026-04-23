@@ -1,5 +1,6 @@
 package br.com.model.operational;
 	
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -8,7 +9,13 @@ import br.com.model.gamesupermodels.Subjects;
 import br.com.model.placemodels.Places;
 import br.com.model.playermodels.Player;
 
-public class Game {
+//A classe onde acontece tudo dentro do jogo. Ela é o jogo, possuindo uma lista de personagens, um jogador, uma lista de lugares, uma lista de
+//disciplinas, uma lista de itens e um tabuleiro, englobando todas as classes do jogo.
+
+//Possui um construtor e getters
+public class Game implements Serializable{
+	private static final long serialVersionUID = 1L;
+	
 	private List<Character> listaPersonagens;
 	private Player jogador;
 	private List<Places> listaLugares;

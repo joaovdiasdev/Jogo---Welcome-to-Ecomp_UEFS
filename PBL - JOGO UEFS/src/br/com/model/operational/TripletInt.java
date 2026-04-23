@@ -1,5 +1,6 @@
 package br.com.model.operational;
 
+//Classe operacional para guardar os valores de uma task
 public class TripletInt {
 	private int v1;
 	private int v2;
