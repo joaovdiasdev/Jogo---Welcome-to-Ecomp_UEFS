@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_diO2wCbuEfG54uhjZS0hZw">
+  <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ed8RESbuEfG54uhjZS0hZw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e7MNwCbuEfG54uhjZS0hZw" sourceAnchor="264.0,78.0" targetAnchor="128.0,104.0" target="_e7wOcCbuEfG54uhjZS0hZw" source="_e7OqACbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esRA8CbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdg3sCbuEfG54uhjZS0hZw" sourceX="188" targetY="133"/>
+    <stereotypes xmi:id="_e7M00CbuEfG54uhjZS0hZw" name="Reference">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esS2ICbuEfG54uhjZS0hZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_e7M00SbuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_fd5SMCbuEfG54uhjZS0hZw" position="-90.41856708678927,-12.308136673369674"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e7M00ibuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esRA8SbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_fd218SbuEfG54uhjZS0hZw" position="33.04892593470112,-31.641192821675247"/>
+      <visibility xmi:id="_e7M00ybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e7M01CbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e7M01SbuEfG54uhjZS0hZw" aggregationKind="NONE" name="origem" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ep9T0CbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_fd6gUCbuEfG54uhjZS0hZw" position="-18.786382208536224,100.8492646689639"/>
+      <visibility xmi:id="_e7M01ibuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e7M01ybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e7OC8CbuEfG54uhjZS0hZw" sourceAnchor="132.0,0.0" targetAnchor="0.0,52.0" target="_e7wOcCbuEfG54uhjZS0hZw" source="_e7OqACbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esS2ISbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdis4CbuEfG54uhjZS0hZw" sourceY="-107" targetX="-192"/>
+    <stereotypes xmi:id="_e7OC8SbuEfG54uhjZS0hZw" name="Reference">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esVSYCbuEfG54uhjZS0hZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_e7OC8ibuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_fd9joCbuEfG54uhjZS0hZw" position="-24.30813667336963,-21.08143291321076"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e7OC8ybuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esS2IibuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_fd7ucCbuEfG54uhjZS0hZw" position="-16.64119282167519,-66.5489259347011"/>
+      <visibility xmi:id="_e7OC9CbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e7OC9SbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e7OC9ibuEfG54uhjZS0hZw" aggregationKind="NONE" name="posicaoPair" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ep_wECbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_fd-KsCbuEfG54uhjZS0hZw" position="-244.15073533103612,-116.71361779146375"/>
+      <visibility xmi:id="_e7OC9ybuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e7OC-CbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e8aVwCbuEfG54uhjZS0hZw" sourceAnchor="42.0,14.0" targetAnchor="29.0,29.0" target="_e8pmUCbuEfG54uhjZS0hZw" source="_e8iRkCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esEMoCbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdj7ACbuEfG54uhjZS0hZw" sourceX="26" targetX="623" targetY="69"/>
+    <bendpoints xmi:id="_fdkiECbuEfG54uhjZS0hZw" sourceX="26" sourceY="51" targetX="623" targetY="120"/>
+    <bendpoints xmi:id="_fdlJICbuEfG54uhjZS0hZw" sourceX="-597" sourceY="51" targetY="120"/>
+    <stereotypes xmi:id="_e8aVwSbuEfG54uhjZS0hZw" name="Reference">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esGo4CbuEfG54uhjZS0hZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_e8aVwibuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_feBOACbuEfG54uhjZS0hZw" position="-30.60854234660971,-53.869647547037744"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e8aVwybuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esEMoSbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_fd__4CbuEfG54uhjZS0hZw" position="37.61303189866684,-13.912824308979566"/>
+      <visibility xmi:id="_e8aVxCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e8aVxSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e8aVxibuEfG54uhjZS0hZw" aggregationKind="NONE" name="listaModulos" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epmugCbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feB1ECbuEfG54uhjZS0hZw" position="540.9259417709894,54.99092863928388"/>
+      <visibility xmi:id="_e8aVxybuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e8aVyCbuEfG54uhjZS0hZw" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e8a80CbuEfG54uhjZS0hZw" sourceAnchor="21.0,0.0" targetAnchor="0.0,10.0" target="_e9fT0CbuEfG54uhjZS0hZw" source="_e8iRkCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esHP8CbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdlwMCbuEfG54uhjZS0hZw" sourceY="-102" targetX="-402"/>
+    <stereotypes xmi:id="_e8bj4CbuEfG54uhjZS0hZw" name="Reference">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esLhYCbuEfG54uhjZS0hZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_e8bj4SbuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_feE4YCbuEfG54uhjZS0hZw" position="-14.142105167809376,-112.90223263952805"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e8bj4ibuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esHP8SbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feDDMCbuEfG54uhjZS0hZw" position="1.5529813121538183,-69.70439764820992"/>
+      <visibility xmi:id="_e8bj4ybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e8bj5CbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e8bj5SbuEfG54uhjZS0hZw" aggregationKind="NONE" name="reitoriaPlaces" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epqY4CbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feFfcCbuEfG54uhjZS0hZw" position="-441.3006718146843,-294.07203120846293"/>
+      <visibility xmi:id="_e8bj5ibuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e8bj5ybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e8cK8CbuEfG54uhjZS0hZw" sourceAnchor="21.0,29.0" targetAnchor="102.0,57.0" target="_e9fT0CbuEfG54uhjZS0hZw" source="_e8iRkCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esMIcCbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdm-UCbuEfG54uhjZS0hZw" sourceY="212" targetX="-504" targetY="296"/>
+    <bendpoints xmi:id="_fdm-USbuEfG54uhjZS0hZw" sourceX="504" sourceY="212" targetY="296"/>
+    <stereotypes xmi:id="_e8cyACbuEfG54uhjZS0hZw" name="Reference">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esN9oCbuEfG54uhjZS0hZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_e8cyASbuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_feH7sCbuEfG54uhjZS0hZw" position="-278.8578948321906,-16.09776736047195"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e8cyAibuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esMIcSbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feGtkCbuEfG54uhjZS0hZw" position="-18.552981312153804,20.70439764820992"/>
+      <visibility xmi:id="_e8cyAybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e8cyBCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e8cyBSbuEfG54uhjZS0hZw" aggregationKind="NONE" name="bandejaoPlaces" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eps1ICbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feIiwCbuEfG54uhjZS0hZw" position="-570.6993281853156,431.07203120846293"/>
+      <visibility xmi:id="_e8cyBibuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e8cyBybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e8eAICbuEfG54uhjZS0hZw" sourceAnchor="132.0,57.0" targetAnchor="65.0,104.0" target="_e6ZjkCbuEfG54uhjZS0hZw" source="_e9fT0CbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esVSYSbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdu6ICbuEfG54uhjZS0hZw" sourceY="326" targetX="3594" targetY="438"/>
+    <bendpoints xmi:id="_fdu6ISbuEfG54uhjZS0hZw" sourceX="-3594" sourceY="326" targetY="438"/>
+    <stereotypes xmi:id="_e8f1USbuEfG54uhjZS0hZw" name="Reference">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esXHkCbuEfG54uhjZS0hZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_e8fOQSbuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_feQekCbuEfG54uhjZS0hZw" position="1783.0753036260705,-101.71534399746201"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e8fOQibuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esVSYibuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feP3gCbuEfG54uhjZS0hZw" position="1.636191916864675,29.44216915757545"/>
+      <visibility xmi:id="_e8hDcCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e8gcYCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e8f1UCbuEfG54uhjZS0hZw" aggregationKind="NONE" name="posicaoLocalPair" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqNygCbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feRFoCbuEfG54uhjZS0hZw" position="3545.0945240731053,494.60472370099615"/>
+      <visibility xmi:id="_e8hDcibuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e8hDcSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_e8fOQCbuEfG54uhjZS0hZw" sourceAnchor="0.0,14.0" targetAnchor="102.0,0.0" superClass="_e9fT0CbuEfG54uhjZS0hZw" subClass="_e8iRkCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eno_oCbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdnlYCbuEfG54uhjZS0hZw" sourceX="-65" targetX="-590" targetY="126"/>
+    <bendpoints xmi:id="_fdoMcCbuEfG54uhjZS0hZw" sourceX="-65" sourceY="-256" targetX="-590" targetY="-130"/>
+    <bendpoints xmi:id="_fdoMcSbuEfG54uhjZS0hZw" sourceX="525" sourceY="-256" targetY="-130"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_e8ue0CbuEfG54uhjZS0hZw" sourceAnchor="51.0,0.0" targetAnchor="26.0,29.0" superClass="_e8_kkCbuEfG54uhjZS0hZw" subClass="_e8yJMCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_enbkQCbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdozgCbuEfG54uhjZS0hZw" sourceY="-28" targetX="56" targetY="27"/>
+    <bendpoints xmi:id="_fdozgSbuEfG54uhjZS0hZw" sourceX="-56" sourceY="-28" targetY="27"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e8vs8CbuEfG54uhjZS0hZw" sourceAnchor="202.0,0.0" targetAnchor="52.0,14.0" target="_e8_kkCbuEfG54uhjZS0hZw" source="_e9fT0CbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esXuoCbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdwIQCbuEfG54uhjZS0hZw" sourceY="-448" targetX="130"/>
+    <stereotypes xmi:id="_e8wUASbuEfG54uhjZS0hZw" name="Reference">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esY8wCbuEfG54uhjZS0hZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_e8vs8SbuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_feTh4CbuEfG54uhjZS0hZw" position="-25.644957554275265,380.3619796366895"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e8vs8ibuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esXuoSbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feSTwCbuEfG54uhjZS0hZw" position="-17.932422182837968,-80.06554158617291"/>
+      <visibility xmi:id="_e8wUAybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e8wUAibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e8wUACbuEfG54uhjZS0hZw" aggregationKind="NONE" name="listaEventosEvents" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqPnsCbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feUI8CbuEfG54uhjZS0hZw" position="56.06757781716203,367.9344584138271"/>
+      <visibility xmi:id="_e8w7ECbuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e8wUBCbuEfG54uhjZS0hZw" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_e88hQCbuEfG54uhjZS0hZw" sourceAnchor="57.0,0.0" targetAnchor="26.0,29.0" superClass="_e8_kkCbuEfG54uhjZS0hZw" subClass="_e89IUCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_enZIACbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdr20CbuEfG54uhjZS0hZw" sourceY="-28" targetX="-112" targetY="27"/>
+    <bendpoints xmi:id="_fdr20SbuEfG54uhjZS0hZw" sourceX="112" sourceY="-28" targetY="27"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e9Cn4CbuEfG54uhjZS0hZw" sourceAnchor="362.0,92.0" targetAnchor="132.0,157.0" target="_e7OqACbuEfG54uhjZS0hZw" source="_e9M_8CbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esOksCbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdtsACbuEfG54uhjZS0hZw" sourceX="244" targetY="147"/>
+    <stereotypes xmi:id="_e9LKwibuEfG54uhjZS0hZw" name="Reference">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esQZ4CbuEfG54uhjZS0hZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_e9KjsCbuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_feOCUCbuEfG54uhjZS0hZw" position="-136.5405236225331,-15.876749079821991"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e9LKwCbuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esOksSbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feNbQSbuEfG54uhjZS0hZw" position="45.33929123848327,-35.258318999699725"/>
+      <visibility xmi:id="_e9MY4CbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9Lx0CbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e9LKwSbuEfG54uhjZS0hZw" aggregationKind="NONE" name="posicaoGrid" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ep5CYSbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feOpYCbuEfG54uhjZS0hZw" position="-93.06269964967964,111.67991074767042"/>
+      <visibility xmi:id="_e9MY4ibuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e9MY4SbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_e9R4cCbuEfG54uhjZS0hZw" sourceAnchor="0.0,28.0" targetAnchor="181.0,124.0" superClass="_e9TGkCbuEfG54uhjZS0hZw" subClass="_e8424CbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_endZcCbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdqosCbuEfG54uhjZS0hZw" sourceX="-428" targetY="282"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e9jlQCbuEfG54uhjZS0hZw" sourceAnchor="45.0,14.0" targetAnchor="486.0,28.0" target="_e9nPoCbuEfG54uhjZS0hZw" source="_e8z-YCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_erwqoCbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdqBoCbuEfG54uhjZS0hZw" sourceX="526" targetX="855" targetY="517"/>
+    <bendpoints xmi:id="_fdqBoSbuEfG54uhjZS0hZw" sourceX="526" sourceY="-517" targetX="855"/>
+    <nameVisual xmi:id="_e9kzYSbuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_feLmECbuEfG54uhjZS0hZw" position="-348.2607789390287,254.2829996894676"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e9lacCbuEfG54uhjZS0hZw" aggregationKind="NONE" name="corCabeloString" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqW8cCbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feJw4CbuEfG54uhjZS0hZw" position="-12.760381310699245,-15.734420977261493"/>
+      <visibility xmi:id="_e9mokSbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9mokCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e9lacSbuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_erxRsCbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feLmESbuEfG54uhjZS0hZw" position="648.6842848478072,501.7471327329706"/>
+      <visibility xmi:id="_e9mokybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9mokibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e9kMUCbuEfG54uhjZS0hZw" sourceAnchor="243.0,0.0" targetAnchor="29.0,29.0" target="_e81zkCbuEfG54uhjZS0hZw" source="_e9nPoCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esY8wSbuEfG54uhjZS0hZw"/>
+    <stereotypes xmi:id="_e9laeCbuEfG54uhjZS0hZw" name="Reference">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esax8CbuEfG54uhjZS0hZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_e9ladSbuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_feVXECbuEfG54uhjZS0hZw" position="-25.652588755087436,-161.5301458586201"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e9ladibuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esY8wibuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feUwACbuEfG54uhjZS0hZw" position="-17.42590228862514,-81.11717204720264"/>
+      <visibility xmi:id="_e9momSbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9momCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e9ladybuEfG54uhjZS0hZw" aggregationKind="NONE" name="listaClothes" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqYKkCbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feVXESbuEfG54uhjZS0hZw" position="-53.67124817179297,-269.40854973970215"/>
+      <visibility xmi:id="_e9momybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9momibuEfG54uhjZS0hZw" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e9kzYCbuEfG54uhjZS0hZw" sourceAnchor="0.0,14.0" targetAnchor="156.0,57.0" target="_e9nPoCbuEfG54uhjZS0hZw" source="_e8-WcCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eryf0CbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdtE8CbuEfG54uhjZS0hZw" sourceX="-410" targetY="383"/>
+    <nameVisual xmi:id="_e9lacibuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_feM0MCbuEfG54uhjZS0hZw" position="278.40369118925014,-13.508392834385631"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e9lacybuEfG54uhjZS0hZw" aggregationKind="NONE" name="tipoHair" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqZ_wCbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feMNICbuEfG54uhjZS0hZw" position="-76.55374615090204,-33.083629099896484"/>
+      <visibility xmi:id="_e9molSbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9molCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e9ladCbuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eryf0SbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feNbQCbuEfG54uhjZS0hZw" position="187.7858922638914,350.11881498264825"/>
+      <visibility xmi:id="_e9molybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9molibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e9q6ACbuEfG54uhjZS0hZw" sourceAnchor="111.0,137.0" targetAnchor="211.0,124.0" target="_e9TGkCbuEfG54uhjZS0hZw" source="_e9wZkCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esax8SbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdxWYCbuEfG54uhjZS0hZw" sourceY="40" targetX="811" targetY="232"/>
+    <bendpoints xmi:id="_fdx9cCbuEfG54uhjZS0hZw" sourceX="-811" sourceY="40" targetY="232"/>
+    <stereotypes xmi:id="_e9sIIibuEfG54uhjZS0hZw" name="Reference">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_escAECbuEfG54uhjZS0hZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_e9rhECbuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_feWlMCbuEfG54uhjZS0hZw" position="377.4852512411544,-28.00515059156203"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e9sIICbuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esax8ibuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feV-ICbuEfG54uhjZS0hZw" position="-19.87637601428196,23.710003575979442"/>
+      <visibility xmi:id="_e9tWQSbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9tWQCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e9sIISbuEfG54uhjZS0hZw" aggregationKind="NONE" name="matriz" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqbN4CbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feWlMSbuEfG54uhjZS0hZw" position="771.9991192725538,170.8883068368287"/>
+      <visibility xmi:id="_e9t9USbuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e9t9UCbuEfG54uhjZS0hZw" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e98m0CbuEfG54uhjZS0hZw" sourceAnchor="0.0,68.0" targetAnchor="319.0,202.0" target="_e99N4CbuEfG54uhjZS0hZw" source="_e-SlECbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_escnICbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fdzLkCbuEfG54uhjZS0hZw" sourceX="-216" targetX="1598" targetY="325"/>
+    <bendpoints xmi:id="_fdzyoCbuEfG54uhjZS0hZw" sourceX="-216" sourceY="-325" targetX="1598"/>
+    <stereotypes xmi:id="_e98m0SbuEfG54uhjZS0hZw" name="Reference">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esd1QCbuEfG54uhjZS0hZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_e98m0ibuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_feYaYCbuEfG54uhjZS0hZw" position="33.73999210596139,144.57196247685988"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e98m0ybuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_escnISbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feXMQCbuEfG54uhjZS0hZw" position="-57.39936130965452,-36.1619820278338"/>
+      <visibility xmi:id="_e98m1CbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e98m1SbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e98m1ibuEfG54uhjZS0hZw" aggregationKind="NONE" name="statusJogadorPlayerStats" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqffUCbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feZBcCbuEfG54uhjZS0hZw" position="1465.5462016484066,290.0768365758556"/>
+      <visibility xmi:id="_e98m1ybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e98m2CbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e-L3YCbuEfG54uhjZS0hZw" sourceAnchor="72.0,0.0" targetAnchor="243.0,57.0" target="_e9nPoCbuEfG54uhjZS0hZw" source="_e-SlECbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esd1QSbuEfG54uhjZS0hZw"/>
+    <stereotypes xmi:id="_e-OToybuEfG54uhjZS0hZw" name="Reference">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esfqcCbuEfG54uhjZS0hZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_e-OToCbuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_fea2oCbuEfG54uhjZS0hZw" position="-14.17128090250327,14.863380690806366"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e-OToSbuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esd1QibuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_feaPkCbuEfG54uhjZS0hZw" position="1.7517440445724901,-72.88284820057618"/>
+      <visibility xmi:id="_e-Qv4SbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-Qv4CbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e-OToibuEfG54uhjZS0hZw" aggregationKind="NONE" name="caracteristicasFeatures" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqgtcCbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_febdsCbuEfG54uhjZS0hZw" position="-66.5901420724191,79.04096208358465"/>
+      <visibility xmi:id="_e-Qv4ybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-Qv4ibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e-MecCbuEfG54uhjZS0hZw" sourceAnchor="0.0,187.0" targetAnchor="200.0,137.0" target="_e9wZkCbuEfG54uhjZS0hZw" source="_e-SlECbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esfqcSbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fd1AwCbuEfG54uhjZS0hZw" sourceX="-1527" targetY="242"/>
+    <stereotypes xmi:id="_e-OTpybuEfG54uhjZS0hZw" name="Reference">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esg4kCbuEfG54uhjZS0hZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_e-OTpCbuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_fedS4CbuEfG54uhjZS0hZw" position="1456.3699521978224,0.450306234707341"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e-OTpSbuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esfqcibuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_fecr0CbuEfG54uhjZS0hZw" position="-63.144704681924736,-14.760854508368766"/>
+      <visibility xmi:id="_e-RW8CbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-Qv5CbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e-OTpibuEfG54uhjZS0hZw" aggregationKind="NONE" name="mochila" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqhUgCbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_fedS4SbuEfG54uhjZS0hZw" position="1442.8939499135604,228.11469003609318"/>
+      <visibility xmi:id="_e-RW8ibuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-RW8SbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_e-NFgCbuEfG54uhjZS0hZw" sourceAnchor="0.0,128.0" targetAnchor="276.0,144.0" target="_e9bpcCbuEfG54uhjZS0hZw" source="_e-SlECbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eshfoCbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fd2O4CbuEfG54uhjZS0hZw" sourceX="-967" targetY="183"/>
+    <stereotypes xmi:id="_e-O6sSbuEfG54uhjZS0hZw" name="Reference">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_esitwCbuEfG54uhjZS0hZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_e-OTqCbuEfG54uhjZS0hZw" text="">
+      <visualProperties xmi:id="_feehACbuEfG54uhjZS0hZw" position="925.4843096823532,0.37959770387510616"/>
+    </nameVisual>
+    <sourceRole xmi:id="_e-OTqSbuEfG54uhjZS0hZw" aggregationKind="NONE" name="">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eshfoSbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_fed58CbuEfG54uhjZS0hZw" position="-62.64339278984039,-13.875198355032694"/>
+      <visibility xmi:id="_e-RW9CbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-RW8ybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_e-O6sCbuEfG54uhjZS0hZw" aggregationKind="NONE" name="disciplinas" navigable="true">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqh7kCbuEfG54uhjZS0hZw"/>
+      <visualProperties xmi:id="_fefIECbuEfG54uhjZS0hZw" position="927.1258995078377,168.379597703875"/>
+      <visibility xmi:id="_e-RW9ibuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-RW9SbuEfG54uhjZS0hZw" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_e-NskCbuEfG54uhjZS0hZw" sourceAnchor="0.0,98.0" targetAnchor="181.0,184.0" superClass="_e9M_8CbuEfG54uhjZS0hZw" subClass="_e-SlECbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eoyPICbuEfG54uhjZS0hZw"/>
+    <bendpoints xmi:id="_fd218CbuEfG54uhjZS0hZw" sourceX="-445" targetY="153"/>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e45uwCbuEfG54uhjZS0hZw" name="Game">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_efjaoCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e45uwSbuEfG54uhjZS0hZw" position="30.0,30.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e45uwibuEfG54uhjZS0hZw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e6ZjkCbuEfG54uhjZS0hZw" name="Pair" associationsIn="_e8eAICbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egLFsCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e6ZjkSbuEfG54uhjZS0hZw" position="-3228.0,407.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e6ZjkibuEfG54uhjZS0hZw" label="+"/>
+    <attributes xmi:id="_e6ZjkybuEfG54uhjZS0hZw" name="x">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epvRYCbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e6ZjlCbuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epxGkCbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e6ZjlSbuEfG54uhjZS0hZw" label="#"/>
+      <cardinality xmi:id="_e6ZjlibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e6ZjlybuEfG54uhjZS0hZw" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e6ZjmCbuEfG54uhjZS0hZw" name="y">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epxtoCbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e6ZjmSbuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epy7wCbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e6ZjmibuEfG54uhjZS0hZw" label="#"/>
+      <cardinality xmi:id="_e6ZjmybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e6ZjnCbuEfG54uhjZS0hZw" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_e6ZjnSbuEfG54uhjZS0hZw" name="Pair">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egM64CbuEfG54uhjZS0hZw"/>
+      <keywords xmi:id="_e6ZjnibuEfG54uhjZS0hZw" keyword="create"/>
+      <visibility xmi:id="_e6ZjnybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e6ZjoCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e6ZjoSbuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egNh8ibuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e6ZjoibuEfG54uhjZS0hZw" name="Pair">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egLFsCbuEfG54uhjZS0hZw"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e7OqACbuEfG54uhjZS0hZw" name="Grid" associationsIn="_e9Cn4CbuEfG54uhjZS0hZw" associationsOut="_e7MNwCbuEfG54uhjZS0hZw _e7OC8CbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egZvMCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e7OqASbuEfG54uhjZS0hZw" position="-721.0,0.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e7OqAibuEfG54uhjZS0hZw" label="+"/>
+    <attributes xmi:id="_e7OqAybuEfG54uhjZS0hZw" name="origem">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ep9T0CbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e7OqBCbuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ep_JACbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e7OqBSbuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e7OqBibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e7OqBybuEfG54uhjZS0hZw" name="Pair">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egcLcCbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e7OqCCbuEfG54uhjZS0hZw" name="posicaoPair">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ep_wECbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e7OqCSbuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqA-MCbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e7OqCibuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e7OqCybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e7OqDCbuEfG54uhjZS0hZw" name="Pair">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egcLcCbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_e7OqDSbuEfG54uhjZS0hZw" name="Grid">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eggc4CbuEfG54uhjZS0hZw"/>
+      <keywords xmi:id="_e7OqDibuEfG54uhjZS0hZw" keyword="create"/>
+      <visibility xmi:id="_e7OqDybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e7OqECbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e7OqESbuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eghrAibuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e7OqEibuEfG54uhjZS0hZw" name="Grid">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egZvMCbuEfG54uhjZS0hZw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_e7OqEybuEfG54uhjZS0hZw" name="x">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eghD8CbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e7OqFCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e7OqFSbuEfG54uhjZS0hZw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e7OqFibuEfG54uhjZS0hZw" name="y">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eghD8SbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e7OqFybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e7OqGCbuEfG54uhjZS0hZw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e7OqGSbuEfG54uhjZS0hZw" name="axisX">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egiSECbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e7OqGibuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e7OqGybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_e7OqHCbuEfG54uhjZS0hZw" name="axisY">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egiSESbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e7OqHSbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e7OqHibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_e7OqHybuEfG54uhjZS0hZw" name="negAxisX">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egi5ICbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e7OqICbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e7OqISbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_e7OqIibuEfG54uhjZS0hZw" name="negAxisY">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egi5ISbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e7OqIybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e7OqJCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_e7OqJSbuEfG54uhjZS0hZw" name="getPosicao">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egjgMCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e7OqJibuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e7OqJybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e7OqKCbuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_en3pICbuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e7OqKSbuEfG54uhjZS0hZw" name="Pair">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egcLcCbuEfG54uhjZS0hZw"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e7wOcCbuEfG54uhjZS0hZw" name="Pair" associationsIn="_e7MNwCbuEfG54uhjZS0hZw _e7OC8CbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egcLcCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e7w1gCbuEfG54uhjZS0hZw" position="-397.0,-159.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e7w1gSbuEfG54uhjZS0hZw" label="+"/>
+    <attributes xmi:id="_e7w1gibuEfG54uhjZS0hZw" name="x">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqBlQCbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e7w1gybuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqEBgCbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e7w1hCbuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e7w1hSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e7w1hibuEfG54uhjZS0hZw" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e7w1hybuEfG54uhjZS0hZw" name="y">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqEokCbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e7w1iCbuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqF2sCbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e7w1iSbuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e7w1iibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e7w1iybuEfG54uhjZS0hZw" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_e7w1jCbuEfG54uhjZS0hZw" name="Pair">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egeAoCbuEfG54uhjZS0hZw"/>
+      <keywords xmi:id="_e7w1jSbuEfG54uhjZS0hZw" keyword="create"/>
+      <visibility xmi:id="_e7w1jibuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e7w1jybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e7w1kCbuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egfOwibuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e7w1kSbuEfG54uhjZS0hZw" name="Pair">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egcLcCbuEfG54uhjZS0hZw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_e7w1kibuEfG54uhjZS0hZw" name="x">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egensCbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e7w1kybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e7w1lCbuEfG54uhjZS0hZw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e7w1lSbuEfG54uhjZS0hZw" name="y">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egensSbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e7w1libuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e7w1lybuEfG54uhjZS0hZw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e8Ry4CbuEfG54uhjZS0hZw" name="Level">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egOwECbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e8Ry4SbuEfG54uhjZS0hZw" position="-20.0,591.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e8Ry4ibuEfG54uhjZS0hZw" label="+"/>
+    <attributes xmi:id="_e8Ry4ybuEfG54uhjZS0hZw" name="xpInt">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epzi0CbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e8Ry5CbuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ep1YACbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e8Ry5SbuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e8Ry5ibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e8Ry5ybuEfG54uhjZS0hZw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e8Ry6CbuEfG54uhjZS0hZw" name="nivel">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ep1YASbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e8Ry6SbuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ep3NMCbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e8Ry6ibuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e8Ry6ybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e8Ry7CbuEfG54uhjZS0hZw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_e8Ry7SbuEfG54uhjZS0hZw" name="Level">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egQlQCbuEfG54uhjZS0hZw"/>
+      <keywords xmi:id="_e8Ry7ibuEfG54uhjZS0hZw" keyword="create"/>
+      <visibility xmi:id="_e8Ry7ybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e8Ry8CbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e8Ry8SbuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egRMUibuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e8Ry8ibuEfG54uhjZS0hZw" name="Level">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egOwECbuEfG54uhjZS0hZw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_e8Ry8ybuEfG54uhjZS0hZw" name="levelUp">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egRzYCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e8Ry9CbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e8Ry9SbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e8VdQCbuEfG54uhjZS0hZw" name="Restaurante">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef2VkCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e8VdQSbuEfG54uhjZS0hZw" position="10.0,783.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e8VdQibuEfG54uhjZS0hZw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e8iRkCbuEfG54uhjZS0hZw" name="UEFS" associationsOut="_e8aVwCbuEfG54uhjZS0hZw _e8a80CbuEfG54uhjZS0hZw _e8cK8CbuEfG54uhjZS0hZw" generalizations="_e8fOQCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egEYACbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e8iRkSbuEfG54uhjZS0hZw" position="-124.0,678.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e8iRkibuEfG54uhjZS0hZw" label="+"/>
+    <attributes xmi:id="_e8iRkybuEfG54uhjZS0hZw" name="listaModulos">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epmugCbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e8iRlCbuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eppKwCbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e8iRlSbuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e8iRlibuEfG54uhjZS0hZw" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_e8iRlybuEfG54uhjZS0hZw" name="Modulo">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef1ugCbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e8iRmCbuEfG54uhjZS0hZw" name="reitoriaPlaces">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epqY4CbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e8iRmSbuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epsOECbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e8iRmibuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e8iRmybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e8iRnCbuEfG54uhjZS0hZw" name="Places">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egvGYCbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e8iRnSbuEfG54uhjZS0hZw" name="bandejaoPlaces">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eps1ICbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e8iRnibuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epuqUCbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e8iRnybuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e8iRoCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e8iRoSbuEfG54uhjZS0hZw" name="Places">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egvGYCbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e8l78CbuEfG54uhjZS0hZw" name="DA">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_efz5UCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e8l78SbuEfG54uhjZS0hZw" position="-71.0,776.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e8l78ibuEfG54uhjZS0hZw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e8nxICbuEfG54uhjZS0hZw" name="Loja">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef1HcCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e8nxISbuEfG54uhjZS0hZw" position="188.0,666.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e8nxIibuEfG54uhjZS0hZw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e8pmUCbuEfG54uhjZS0hZw" name="Modulo" associationsIn="_e8aVwCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef1ugCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e8pmUSbuEfG54uhjZS0hZw" position="-708.0,594.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e8pmUibuEfG54uhjZS0hZw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e8spoCbuEfG54uhjZS0hZw" name="Sala">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef3jsCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e8spoSbuEfG54uhjZS0hZw" position="166.0,776.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e8spoibuEfG54uhjZS0hZw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e8yJMCbuEfG54uhjZS0hZw" name="RandomEvents" generalizations="_e8ue0CbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_efxdECbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e8yJMSbuEfG54uhjZS0hZw" position="350.0,188.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e8yJMibuEfG54uhjZS0hZw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e8z-YCbuEfG54uhjZS0hZw" name="Color" associationsOut="_e9jlQCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef6nACbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e8z-YSbuEfG54uhjZS0hZw" position="30.0,870.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e8z-YibuEfG54uhjZS0hZw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e81zkCbuEfG54uhjZS0hZw" name="Clothes" associationsIn="_e9kMUCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef5Y4CbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e81zkSbuEfG54uhjZS0hZw" position="-526.0,255.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e81zkibuEfG54uhjZS0hZw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e8424CbuEfG54uhjZS0hZw" name="Food" generalizations="_e9R4cCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef7OECbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e8424SbuEfG54uhjZS0hZw" position="-2598.0,458.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e8424ibuEfG54uhjZS0hZw" label="+"/>
+    <operations xmi:id="_e8424ybuEfG54uhjZS0hZw" name="Food">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef-RYCbuEfG54uhjZS0hZw"/>
+      <keywords xmi:id="_e8425CbuEfG54uhjZS0hZw" keyword="create"/>
+      <visibility xmi:id="_e8425SbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e8425ibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e8425ybuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egB7wCbuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e8426CbuEfG54uhjZS0hZw" name="Food">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef7OECbuEfG54uhjZS0hZw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_e8426SbuEfG54uhjZS0hZw" name="nome">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef-RYSbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e8426ibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e8426ybuEfG54uhjZS0hZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e8427CbuEfG54uhjZS0hZw" name="quantidade">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef-4cCbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e8427SbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e8427ibuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e8427ybuEfG54uhjZS0hZw" name="preco">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef-4cSbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e8428CbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e8428SbuEfG54uhjZS0hZw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e89IUCbuEfG54uhjZS0hZw" name="RequeiredEvents" generalizations="_e88hQCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_efqvYCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e89IUSbuEfG54uhjZS0hZw" position="176.0,188.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e89IUibuEfG54uhjZS0hZw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e8-WcCbuEfG54uhjZS0hZw" name="Hair" associationsOut="_e9kzYCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef4x0CbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e8-WcSbuEfG54uhjZS0hZw" position="-174.0,765.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e8-WcibuEfG54uhjZS0hZw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e8_kkCbuEfG54uhjZS0hZw" name="Events" associationsIn="_e8vs8CbuEfG54uhjZS0hZw" subclassedBy="_e8ue0CbuEfG54uhjZS0hZw _e88hQCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_efphQCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e8_kkSbuEfG54uhjZS0hZw" position="319.0,104.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e8_kkibuEfG54uhjZS0hZw" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e9M_8CbuEfG54uhjZS0hZw" name="Characters" associationsOut="_e9Cn4CbuEfG54uhjZS0hZw" subclassedBy="_e-NskCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egTBgCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e9M_8SbuEfG54uhjZS0hZw" position="-1195.0,212.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e9M_8ibuEfG54uhjZS0hZw" label="+"/>
+    <attributes xmi:id="_e9M_8ybuEfG54uhjZS0hZw" name="nomeString">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ep30QCbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e9M_9CbuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ep5CYCbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e9M_9SbuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e9M_9ibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e9M_9ybuEfG54uhjZS0hZw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e9M_-CbuEfG54uhjZS0hZw" name="posicaoGrid">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ep5CYSbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e9M_-SbuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ep6QgCbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e9M_-ibuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e9M_-ybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e9M__CbuEfG54uhjZS0hZw" name="Grid">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egZvMCbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e9M__SbuEfG54uhjZS0hZw" name="idadeInt">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ep63kCbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e9M__ibuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ep8FsCbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e9M__ybuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e9NAACbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e9NAASbuEfG54uhjZS0hZw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_e9NAAibuEfG54uhjZS0hZw" name="Characters">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egU2sCbuEfG54uhjZS0hZw"/>
+      <keywords xmi:id="_e9NAAybuEfG54uhjZS0hZw" keyword="create"/>
+      <visibility xmi:id="_e9NABCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9NABSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e9NABibuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egVdwybuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e9NABybuEfG54uhjZS0hZw" name="Characters">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egTBgCbuEfG54uhjZS0hZw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_e9NACCbuEfG54uhjZS0hZw" name="nome">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egU2sSbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9NACSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9NACibuEfG54uhjZS0hZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e9NACybuEfG54uhjZS0hZw" name="idade">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egVdwCbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9NADCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9NADSbuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e9NADibuEfG54uhjZS0hZw" name="andarDireita">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egWE0CbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9NADybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9NAECbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_e9NAESbuEfG54uhjZS0hZw" name="andarEsquerda">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egWr4CbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9NAEibuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9NAEybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_e9NAFCbuEfG54uhjZS0hZw" name="andarFrente">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egWr4SbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9NAFSbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9NAFibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_e9NAFybuEfG54uhjZS0hZw" name="andarTras">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egXS8CbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9NAGCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9NAGSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e9TGkCbuEfG54uhjZS0hZw" name="Item" associationsIn="_e9q6ACbuEfG54uhjZS0hZw" subclassedBy="_e9R4cCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ego_wCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e9TGkSbuEfG54uhjZS0hZw" position="-3207.0,80.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e9TGkibuEfG54uhjZS0hZw" label="+"/>
+    <attributes xmi:id="_e9TGkybuEfG54uhjZS0hZw" name="nomeItemString">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqHE0CbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9TGlCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9TGlSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e9TGlibuEfG54uhjZS0hZw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e9TGlybuEfG54uhjZS0hZw" name="quantidadeInt">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqI6ACbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9TGmCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9TGmSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e9TGmibuEfG54uhjZS0hZw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e9TGmybuEfG54uhjZS0hZw" name="precoDouble">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqKIICbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9TGnCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9TGnSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e9TGnibuEfG54uhjZS0hZw" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_e9TGnybuEfG54uhjZS0hZw" name="Item">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egsqICbuEfG54uhjZS0hZw"/>
+      <keywords xmi:id="_e9TGoCbuEfG54uhjZS0hZw" keyword="create"/>
+      <visibility xmi:id="_e9TGoSbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9TGoibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e9TGoybuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egtRMibuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e9TGpCbuEfG54uhjZS0hZw" name="Item">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ego_wCbuEfG54uhjZS0hZw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_e9TGpSbuEfG54uhjZS0hZw" name="nome">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egsqISbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9TGpibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9TGpybuEfG54uhjZS0hZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e9TGqCbuEfG54uhjZS0hZw" name="quantidade">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egsqIibuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9TGqSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9TGqibuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e9TGqybuEfG54uhjZS0hZw" name="preco">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egsqIybuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9TGrCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9TGrSbuEfG54uhjZS0hZw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e9bpcCbuEfG54uhjZS0hZw" name="Subjects" associationsIn="_e-NFgCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egywwCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e9bpcSbuEfG54uhjZS0hZw" position="-1812.0,252.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e9bpcibuEfG54uhjZS0hZw" label="+"/>
+    <attributes xmi:id="_e9bpcybuEfG54uhjZS0hZw" name="nomeMateriaString">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqSrACbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9bpdCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9bpdSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e9cQgCbuEfG54uhjZS0hZw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e9cQgSbuEfG54uhjZS0hZw" name="numeroProvasInt">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqT5ICbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9cQgibuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9cQgybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e9cQhCbuEfG54uhjZS0hZw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e9cQhSbuEfG54uhjZS0hZw" name="cargaHorariaInt">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqUgMCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9cQhibuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9cQhybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e9cQiCbuEfG54uhjZS0hZw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e9cQiSbuEfG54uhjZS0hZw" name="notasProvasList">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqVuUCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9cQiibuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9cQiybuEfG54uhjZS0hZw" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_e9cQjCbuEfG54uhjZS0hZw" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_e9cQjSbuEfG54uhjZS0hZw" name="Subjects">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eg10ECbuEfG54uhjZS0hZw"/>
+      <keywords xmi:id="_e9cQjibuEfG54uhjZS0hZw" keyword="create"/>
+      <visibility xmi:id="_e9cQjybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9cQkCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e9cQkSbuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eg3CMCbuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e9cQkibuEfG54uhjZS0hZw" name="Subjects">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egywwCbuEfG54uhjZS0hZw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_e9cQkybuEfG54uhjZS0hZw" name="nomeMateria">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eg10ESbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9cQlCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9cQlSbuEfG54uhjZS0hZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e9cQlibuEfG54uhjZS0hZw" name="numeroProvas">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eg2bICbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9cQlybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9cQmCbuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e9cQmSbuEfG54uhjZS0hZw" name="cargaHoraria">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eg2bISbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9cQmibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9cQmybuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e9fT0CbuEfG54uhjZS0hZw" name="Places" associationsIn="_e8a80CbuEfG54uhjZS0hZw _e8cK8CbuEfG54uhjZS0hZw" associationsOut="_e8eAICbuEfG54uhjZS0hZw _e8vs8CbuEfG54uhjZS0hZw" subclassedBy="_e8fOQCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egvGYCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e9fT0SbuEfG54uhjZS0hZw" position="299.0,566.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e9fT0ibuEfG54uhjZS0hZw" label="+"/>
+    <attributes xmi:id="_e9fT0ybuEfG54uhjZS0hZw" name="nomeLocalString">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqLWQCbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e9fT1CbuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqNLcCbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e9fT1SbuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e9fT1ibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e9fT1ybuEfG54uhjZS0hZw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e9fT2CbuEfG54uhjZS0hZw" name="posicaoLocalPair">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqNygCbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e9fT2SbuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqPAoCbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e9fT2ibuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e9fT2ybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e9fT3CbuEfG54uhjZS0hZw" name="Pair">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egLFsCbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e9fT3SbuEfG54uhjZS0hZw" name="listaEventosEvents">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqPnsCbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e9fT3ibuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqSD8CbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e9fT3ybuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e9fT4CbuEfG54uhjZS0hZw" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_e9fT4SbuEfG54uhjZS0hZw" name="Events">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_efphQCbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e9nPoCbuEfG54uhjZS0hZw" name="Features" associationsIn="_e9jlQCbuEfG54uhjZS0hZw _e9kzYCbuEfG54uhjZS0hZw _e-L3YCbuEfG54uhjZS0hZw" associationsOut="_e9kMUCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eg43YCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e9nPoSbuEfG54uhjZS0hZw" position="-740.0,339.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e9nPoibuEfG54uhjZS0hZw" label="+"/>
+    <attributes xmi:id="_e9nPoybuEfG54uhjZS0hZw" name="corCabeloString">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqW8cCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9nPpCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9nPpSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e9nPpibuEfG54uhjZS0hZw" name="Color">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef6nACbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e9nPpybuEfG54uhjZS0hZw" name="listaClothes">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqYKkCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9nPqCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9nPqSbuEfG54uhjZS0hZw" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_e9nPqibuEfG54uhjZS0hZw" name="Clothes">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef5Y4CbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e9nPqybuEfG54uhjZS0hZw" name="tipoHair">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqZ_wCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9nPrCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9nPrSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e9nPribuEfG54uhjZS0hZw" name="Hair">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef4x0CbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_e9nPrybuEfG54uhjZS0hZw" name="Features">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epMe0CbuEfG54uhjZS0hZw"/>
+      <keywords xmi:id="_e9nPsCbuEfG54uhjZS0hZw" keyword="create"/>
+      <visibility xmi:id="_e9nPsSbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9nPsibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e9nPsybuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epOUAibuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e9nPtCbuEfG54uhjZS0hZw" name="Features">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eg43YCbuEfG54uhjZS0hZw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_e9nPtSbuEfG54uhjZS0hZw" name="corCabelo">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epNF4CbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9nPtibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9nPtybuEfG54uhjZS0hZw" name="Color">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef6nACbuEfG54uhjZS0hZw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e9nPuCbuEfG54uhjZS0hZw" name="roupasLista">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epNs8CbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9nPuSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9nPuibuEfG54uhjZS0hZw" name="List">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_enf1sCbuEfG54uhjZS0hZw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e9nPuybuEfG54uhjZS0hZw" name="cabelo">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epNs8SbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9nPvCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9nPvSbuEfG54uhjZS0hZw" name="Hair">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef4x0CbuEfG54uhjZS0hZw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e9wZkCbuEfG54uhjZS0hZw" name="Inventory" associationsIn="_e-MecCbuEfG54uhjZS0hZw" associationsOut="_e9q6ACbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehD2gCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e9wZkSbuEfG54uhjZS0hZw" position="-2296.0,259.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e9wZkibuEfG54uhjZS0hZw" label="+"/>
+    <attributes xmi:id="_e9wZkybuEfG54uhjZS0hZw" name="matriz">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqbN4CbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e9wZlCbuEfG54uhjZS0hZw" name="Array">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqccACbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_e9wZlSbuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqeRMCbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e9wZlibuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e9wZlybuEfG54uhjZS0hZw" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_e9wZmCbuEfG54uhjZS0hZw" name="Item">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ego_wCbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_e9wZmSbuEfG54uhjZS0hZw" name="Inventory">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehGSwCbuEfG54uhjZS0hZw"/>
+      <keywords xmi:id="_e9wZmibuEfG54uhjZS0hZw" keyword="create"/>
+      <visibility xmi:id="_e9wZmybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9wZnCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e9wZnSbuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehHg4SbuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e9wZnibuEfG54uhjZS0hZw" name="Inventory">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehD2gCbuEfG54uhjZS0hZw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_e9wZnybuEfG54uhjZS0hZw" name="getInventory">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehIvACbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e9wZoCbuEfG54uhjZS0hZw" name="Array">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehJ9ICbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e9wZoSbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9wZoibuEfG54uhjZS0hZw" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_e9wZoybuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehJWECbuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e9wZpCbuEfG54uhjZS0hZw" name="Item">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ego_wCbuEfG54uhjZS0hZw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_e9wZpSbuEfG54uhjZS0hZw" name="adicionar">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eoWxUCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9wZpibuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9wZpybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_e9wZqCbuEfG54uhjZS0hZw" name="item">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eoX_cCbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9wZqSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9wZqibuEfG54uhjZS0hZw" name="Item">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ego_wCbuEfG54uhjZS0hZw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e9wZqybuEfG54uhjZS0hZw" name="x">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eoYmgCbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9wZrCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9wZrSbuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e9wZribuEfG54uhjZS0hZw" name="y">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eoYmgSbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9wZrybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9wZsCbuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e9wZsSbuEfG54uhjZS0hZw" name="deletar">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eobCwCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9wZsibuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9wZsybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_e9wZtCbuEfG54uhjZS0hZw" name="item">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eobp0CbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9wZtSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9wZtibuEfG54uhjZS0hZw" name="Item">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ego_wCbuEfG54uhjZS0hZw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e9wZtybuEfG54uhjZS0hZw" name="x">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eocQ4CbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9wZuCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9wZuSbuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e9wZuibuEfG54uhjZS0hZw" name="y">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eocQ4SbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9wZuybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9wZvCbuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e9wZvSbuEfG54uhjZS0hZw" name="usarItem">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epbIUCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e9wZvibuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e9wZvybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_e9wZwCbuEfG54uhjZS0hZw" name="matriz">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epbvYCbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9wZwSbuEfG54uhjZS0hZw" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_e9wZwibuEfG54uhjZS0hZw" name="Item">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ego_wCbuEfG54uhjZS0hZw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e9wZwybuEfG54uhjZS0hZw" name="item">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epbvYSbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9wZxCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9wZxSbuEfG54uhjZS0hZw" name="Object">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epXd8CbuEfG54uhjZS0hZw"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e9wZxibuEfG54uhjZS0hZw" name="x">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epcWcCbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9wZxybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9wZyCbuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e9wZySbuEfG54uhjZS0hZw" name="y">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_epcWcSbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e9wZyibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e9wZyybuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e99N4CbuEfG54uhjZS0hZw" name="PlayerStats" associationsIn="_e98m0CbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehhwkCbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e99N4SbuEfG54uhjZS0hZw" position="-2702.0,-8.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e99N4ibuEfG54uhjZS0hZw" label="+"/>
+    <attributes xmi:id="_e99N4ybuEfG54uhjZS0hZw" name="xpInt">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqkX0CbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99N5CbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99N5SbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e99N5ibuEfG54uhjZS0hZw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e99N5ybuEfG54uhjZS0hZw" name="motivacaoInt">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqk-4CbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99N6CbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99N6SbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e99N6ibuEfG54uhjZS0hZw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e99N6ybuEfG54uhjZS0hZw" name="saudeInt">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqmNACbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99N7CbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99N7SbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e99N7ibuEfG54uhjZS0hZw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e99N7ybuEfG54uhjZS0hZw" name="energiaInt">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqm0ECbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99N8CbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99N8SbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e99N8ibuEfG54uhjZS0hZw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e99N8ybuEfG54uhjZS0hZw" name="dinheiroDouble">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqnbICbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99N9CbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99N9SbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e99N9ibuEfG54uhjZS0hZw" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e99N9ybuEfG54uhjZS0hZw" name="scoreDouble">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqoCMCbuEfG54uhjZS0hZw"/>
+      <stereotypes xmi:id="_e99N-CbuEfG54uhjZS0hZw" name="LegacyStyledElement">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqpQUCbuEfG54uhjZS0hZw"/>
+      </stereotypes>
+      <visibility xmi:id="_e99N-SbuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e99N-ibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e99N-ybuEfG54uhjZS0hZw" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_e99N_CbuEfG54uhjZS0hZw" name="PlayerStats">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehjlwCbuEfG54uhjZS0hZw"/>
+      <keywords xmi:id="_e99N_SbuEfG54uhjZS0hZw" keyword="create"/>
+      <visibility xmi:id="_e99N_ibuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99N_ybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e99OACbuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehkM0ibuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e99OASbuEfG54uhjZS0hZw" name="PlayerStats">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehhwkCbuEfG54uhjZS0hZw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_e99OAibuEfG54uhjZS0hZw" name="somaXp">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehkz4CbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99OAybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99OBCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_e99OBSbuEfG54uhjZS0hZw" name="valor">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehkz4SbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e99OBibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e99OBybuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e99OCCbuEfG54uhjZS0hZw" name="somaMotivacao">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehmCACbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99OCSbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99OCibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_e99OCybuEfG54uhjZS0hZw" name="valor">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehmCASbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e99ODCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e99ODSbuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e99ODibuEfG54uhjZS0hZw" name="somaSaude">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehmpECbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99ODybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99OECbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_e99OESbuEfG54uhjZS0hZw" name="valor">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehmpESbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e99OEibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e99OEybuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e99OFCbuEfG54uhjZS0hZw" name="somaEnergia">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehnQICbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99OFSbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99OFibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_e99OFybuEfG54uhjZS0hZw" name="valor">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehnQISbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e99OGCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e99OGSbuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e99OGibuEfG54uhjZS0hZw" name="somaDinheiro">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehn3MCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99OGybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99OHCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_e99OHSbuEfG54uhjZS0hZw" name="valor">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehn3MSbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e99OHibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e99OHybuEfG54uhjZS0hZw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e99OICbuEfG54uhjZS0hZw" name="diffMotivacao">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehoeQCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99OISbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99OIibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_e99OIybuEfG54uhjZS0hZw" name="valor">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehoeQSbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e99OJCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e99OJSbuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e99OJibuEfG54uhjZS0hZw" name="diffSaude">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehpFUCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99OJybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99OKCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_e99OKSbuEfG54uhjZS0hZw" name="valor">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehpsYCbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e99OKibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e99OKybuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e99OLCbuEfG54uhjZS0hZw" name="diffEnergia">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehqTcCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99OLSbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99OLibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_e99OLybuEfG54uhjZS0hZw" name="valor">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehqTcSbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e99OMCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e99OMSbuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e99OMibuEfG54uhjZS0hZw" name="diffDinheiro">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehrhkCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99OMybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99ONCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_e99ONSbuEfG54uhjZS0hZw" name="valor">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehrhkSbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e99ONibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e99ONybuEfG54uhjZS0hZw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e99OOCbuEfG54uhjZS0hZw" name="calcularScore">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eo3HoCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99OOSbuEfG54uhjZS0hZw" label="-"/>
+      <cardinality xmi:id="_e99OOibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e99OOybuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eo480CbuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e99OPCbuEfG54uhjZS0hZw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_e99OPSbuEfG54uhjZS0hZw" name="jogador">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eo3usCbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e99OPibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e99OPybuEfG54uhjZS0hZw" name="Player">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehQq0CbuEfG54uhjZS0hZw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e99OQCbuEfG54uhjZS0hZw" name="getScoreDouble">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eo6yACbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e99OQSbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e99OQibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e99OQybuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eo8AICbuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e99ORCbuEfG54uhjZS0hZw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_e99ORSbuEfG54uhjZS0hZw" name="jogador">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eo6yASbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e99ORibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e99ORybuEfG54uhjZS0hZw" name="Player">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehQq0CbuEfG54uhjZS0hZw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e-SlECbuEfG54uhjZS0hZw" name="Player" associationsOut="_e98m0CbuEfG54uhjZS0hZw _e-L3YCbuEfG54uhjZS0hZw _e-MecCbuEfG54uhjZS0hZw _e-NFgCbuEfG54uhjZS0hZw" generalizations="_e-NskCbuEfG54uhjZS0hZw">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehQq0CbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e-SlESbuEfG54uhjZS0hZw" position="-569.0,451.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e-SlEibuEfG54uhjZS0hZw" label="+"/>
+    <attributes xmi:id="_e-SlEybuEfG54uhjZS0hZw" name="statusJogadorPlayerStats">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqffUCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e-SlFCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-SlFSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e-SlFibuEfG54uhjZS0hZw" name="PlayerStats">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehhwkCbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e-SlFybuEfG54uhjZS0hZw" name="caracteristicasFeatures">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqgtcCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e-SlGCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-SlGSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e-SlGibuEfG54uhjZS0hZw" name="Features">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eg43YCbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e-SlGybuEfG54uhjZS0hZw" name="mochila">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqhUgCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e-SlHCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-SlHSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <type xmi:id="_e-SlHibuEfG54uhjZS0hZw" name="Inventory">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehD2gCbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_e-SlHybuEfG54uhjZS0hZw" name="disciplinas">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eqh7kCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e-SlICbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-SlISbuEfG54uhjZS0hZw" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_e-SlIibuEfG54uhjZS0hZw" name="Subjects">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egywwCbuEfG54uhjZS0hZw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_e-SlIybuEfG54uhjZS0hZw" name="Player">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehTuICbuEfG54uhjZS0hZw"/>
+      <keywords xmi:id="_e-SlJCbuEfG54uhjZS0hZw" keyword="create"/>
+      <visibility xmi:id="_e-SlJSbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-SlJibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e-SlJybuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehU8QibuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e-SlKCbuEfG54uhjZS0hZw" name="Player">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehQq0CbuEfG54uhjZS0hZw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_e-SlKSbuEfG54uhjZS0hZw" name="nome">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehUVMCbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e-SlKibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e-SlKybuEfG54uhjZS0hZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_e-SlLCbuEfG54uhjZS0hZw" name="idade">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehUVMSbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e-SlLSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e-SlLibuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e-SlOybuEfG54uhjZS0hZw" name="verMochila">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehYmoCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e-SlPCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-SlPSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_e-SlPibuEfG54uhjZS0hZw" name="getNomeString">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehYmoSbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e-SlPybuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-SlQCbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e-SlQSbuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehZNsCbuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e-SlQibuEfG54uhjZS0hZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_e-SlQybuEfG54uhjZS0hZw" name="getPosicaoPair">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehZ0wCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e-SlRCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-SlRSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e-SlRibuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eoxoECbuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e-SlRybuEfG54uhjZS0hZw" name="Grid">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_egZvMCbuEfG54uhjZS0hZw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_e-SlSCbuEfG54uhjZS0hZw" name="getIdadeInt">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehbC4CbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e-SlSSbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-SlSibuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_e-SlSybuEfG54uhjZS0hZw">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehbp8CbuEfG54uhjZS0hZw"/>
+        <type xmi:id="_e-SlTCbuEfG54uhjZS0hZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_e-SlTSbuEfG54uhjZS0hZw" name="comerSaudavel">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eorhcCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e-SlTibuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-SlTybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_e-SlUCbuEfG54uhjZS0hZw" name="comida">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eosIgCbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e-SlUSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e-SlUibuEfG54uhjZS0hZw" name="Food">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef7OECbuEfG54uhjZS0hZw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e-SlUybuEfG54uhjZS0hZw" name="comerBesteira">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eot9sCbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e-SlVCbuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-SlVSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_e-SlVibuEfG54uhjZS0hZw" name="comida">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eoukwCbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e-SlVybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e-SlWCbuEfG54uhjZS0hZw" name="Food">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ef7OECbuEfG54uhjZS0hZw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_e-SlWSbuEfG54uhjZS0hZw" name="comprarItem">
+      <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eovy4CbuEfG54uhjZS0hZw"/>
+      <visibility xmi:id="_e-SlWibuEfG54uhjZS0hZw" label="+"/>
+      <cardinality xmi:id="_e-SlWybuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_e-SlXCbuEfG54uhjZS0hZw" name="item">
+        <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_eowZ8CbuEfG54uhjZS0hZw"/>
+        <cardinality xmi:id="_e-SlXSbuEfG54uhjZS0hZw" label="1" max="1" min="1"/>
+        <type xmi:id="_e-SlXibuEfG54uhjZS0hZw" name="Item">
+          <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ego_wCbuEfG54uhjZS0hZw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_e-c9ICbuEfG54uhjZS0hZw" name="User">
+    <modelElement href="PBL%20-%20JOGO%20UEFS.uml#_ehxBICbuEfG54uhjZS0hZw"/>
+    <visualProperties xmi:id="_e-c9ISbuEfG54uhjZS0hZw" position="-71.0,875.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_e-c9IibuEfG54uhjZS0hZw" label="+"/>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

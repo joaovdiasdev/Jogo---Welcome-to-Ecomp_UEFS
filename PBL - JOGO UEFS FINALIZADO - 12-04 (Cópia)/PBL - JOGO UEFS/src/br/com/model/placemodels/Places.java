@@ -1,0 +1,35 @@
+package br.com.model.placemodels;
+
+import java.util.List;
+
+import br.com.model.eventmodels.Events;
+import br.com.model.operational.Pair;
+
+public class Places {
+	private String nomeLocalString;
+	private Pair posicaoLocal;
+	private List<Events> listaEventosEvents;
+	
+	public Places(String nome, Pair posicao, List<Events> eventos) {
+		this.nomeLocalString = nome;
+		this.posicaoLocal = posicao;
+		this.listaEventosEvents = eventos;
+	}
+	
+	public String getNomeLocalString() {
+		return nomeLocalString;
+	}
+
+	public Pair getPosicaoLocalPair() {
+		return posicaoLocal;
+	}
+
+	public List<Events> getListaEventosEvents() {
+		return listaEventosEvents;
+	}
+	
+	public Events getEvento(Events evento) {
+		return listaEventosEvents.get(listaEventosEvents.indexOf(evento));
+		 
+	}
+}
